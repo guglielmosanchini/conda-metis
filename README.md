@@ -2,7 +2,7 @@ This repository is a very slight modification of https://github.com/menpo/conda-
 Its aim is to help installing the METIS library on Windows, to use it in [ClustViz](https://github.com/guglielmosanchini/ClustViz) 
 and [ClustVizGUI](https://github.com/guglielmosanchini/ClustVizGUI).
 
-#How to install METIS library on Windows 10:
+# How to install METIS library on Windows 10:
 
 - download and install Cmake (https://cmake.org/download/)
 - open the Command Prompt, go to the ClustViz project folder and execute (you can always manually download the zip and extract it in the project folder):

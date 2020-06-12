@@ -1,0 +1,2 @@
+reg add HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSBuild\4.0 /v MSBuildOverrideTasksPath /d "C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\MSBuild\15.0\Bin" /f
+reg add HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSBuild\ToolsVersion\4.0 /v MSBuildToolPath /d "C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\MSBuild\15.0\Bin" /f
